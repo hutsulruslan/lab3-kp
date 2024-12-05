@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Book One",
+    "author": {
+      "name": "Author A",
+      "nationality": "Ukrainian"
+    }
+  },
+  {
+    "title": "Book Two"
+  },
+  {
+    "title": "Book Three",
+    "author": {
+      "name": "Author B",
+      "nationality": "American"
+    }
+  },
+  {
+    "title": "Book Four",
+    "author": {
+      "name": "Author C",
+      "nationality": "American"
+    }
+  }
+]

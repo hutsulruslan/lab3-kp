@@ -1,0 +1,14 @@
+- author:
+    name: Author A
+    nationality: Ukrainian
+  publicationYear: 1975
+  title: Book One
+- publicationYear: 2001
+  title: Book Two
+- publicationYear: 2002
+  title: Book Three
+- author:
+    name: Author C
+    nationality: American
+  publicationYear: 1998
+  title: Book Four
